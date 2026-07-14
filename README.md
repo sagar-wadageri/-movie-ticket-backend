@@ -21,7 +21,7 @@ A complete backend API for a movie ticket booking system built with Node.js, Exp
 - **MySQL** - Database
 - **JWT** - Authentication
 - **Bcrypt** - Password hashing
-- **Redis** - Caching & Locks (Optional)
+- **Redis** - Caching & Locks (will come soon )
 
 ## 📋 API Endpoints
 
